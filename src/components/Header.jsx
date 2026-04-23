@@ -12,6 +12,7 @@ export default function Header() {
         ReactArt
       </h1>
       <p className="text-stone-500">A community of artists and art-lovers.</p>
+      <p className="text-stone-500">Check my other React projects <a href="https://adrian-szlegel-personal-projects.netlify.app/" target="_blank" rel="noopener noreferrer"><u>here</u></a></p>
     </header>
   );
 }
